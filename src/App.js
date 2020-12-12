@@ -1,7 +1,6 @@
 import React from "react";
 import axios from 'axios';
-import 'filepond/dist/filepond.min.css'
-import { Button, Card, Container, Input } from "reactstrap";
+import { Button, Card, Container} from "reactstrap";
 // core components
 import './App.css'
 
